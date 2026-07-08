@@ -4,6 +4,6 @@ slug  : gaku
 seal  : 145ac50e4cccfc8880e3bc56f23f60df5285c60f2ecc29e7fc104a4f2f64d0d4
 prev  : 982fc6ab06fac83162f3fe4d98c02ff83d4523a1808f2beeae558096ccd19669
 link  : 0ae09d2510a4bdc4fd67128479f6258f11363ee02087cff62a0dbc0dc48d68b7
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

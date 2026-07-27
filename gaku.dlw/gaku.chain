@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 273
 slug  : gaku
 seal  : 145ac50e4cccfc8880e3bc56f23f60df5285c60f2ecc29e7fc104a4f2f64d0d4
-prev  : 982fc6ab06fac83162f3fe4d98c02ff83d4523a1808f2beeae558096ccd19669
-link  : 0ae09d2510a4bdc4fd67128479f6258f11363ee02087cff62a0dbc0dc48d68b7
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 7311eeaa364d9c9117e7b1a5c42e5901bafde1f39add81d81c2126958fe28e96
+link  : 110a8e5f38d3b21ad833fd4e9956177c74589c0fb85871c84f9ae923fec7b225
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
